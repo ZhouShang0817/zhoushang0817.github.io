@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /Shang_Zhou_CV.pdf
+    external: true
     
   # - title: "CV"
   #   url: /cv-json/
