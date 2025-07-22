@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shang Zhou"
+#title: "Shang Zhou"
 author_profile: true
 redirect_from: 
   - /about/
