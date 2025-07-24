@@ -13,7 +13,7 @@ title                    : "Shang Zhou"
 title_separator          : " &#124; "
 name                     : "Shang Zhou"
 description              : &description "personal description"
-url                      : https://zhoushang0817.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://shangzhou.me # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhouShang0817/zhoushang0817.github.io"
 
@@ -160,7 +160,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - assets/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
